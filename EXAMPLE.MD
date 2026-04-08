@@ -2161,7 +2161,7 @@ sock.ws.on('CB:call', (node) => console.log('Call node:', node))
 | Newsletter / Channels | yes | create, manage, analytics |
 | newsletterId(url) | yes | get newsletter info from invite URL |
 | newsletterSubscribed() | yes | list all followed newsletters |
-| findUserId(jid) | yes | bidirectional PN ↔ LID resolution |
+| findUserId(jid) | yes | bidirectional JID ↔ LID resolution |
 | Contact Management | yes | lookup, verification |
 | Profile Features | yes | update, privacy controls |
 | Privacy Settings | yes | all major categories |
