@@ -21,7 +21,7 @@
 </div>
 
 > [!CAUTION]
-> Built on top of the WhiskeySockets/Baileys project. All original core logic credits go to their team. elaina-baileys extends it with thoughtful UX and DX improvements.
+> Built on top of the WhiskeySockets/Baileys project. All original core logic credits go to their team. lunarianbyte/baileys extends it with thoughtful UX and DX improvements.
 > 🙌 Contributors outside the Baileys code
 Thanks to the following awesome contributors who help improve this project 💖
 ---
