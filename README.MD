@@ -41,22 +41,6 @@ Thanks to the following awesome contributors who help improve this project 💖
 
 ### Via `package.json`
 
-[ NPM ]
-Fork Baileys (NPM) **@whiskeysockets/baileys** / **@adiwajshing/baileys**
-
-```json
-@whiskeysockets/baileys
-"dependencies": {
-    "@whiskeysockets/baileys": "npm:@lunarianbyte/baileys"
-}
-```
-```json
-@adiwajsing/baileys
-"dependencies": {
-    "@adiwajshing/baileys": "npm:@lunarianbyte/baileys"
-}
-```
-
 [ GITHUB ]
 Fork Baileys (NPM) **@whiskeysockets/baileys** / **@adiwajshing/baileys**
 
