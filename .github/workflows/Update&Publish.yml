@@ -34,15 +34,19 @@ jobs:
         run: |
           git config --global user.name "Lunarianbyte[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
+
           git add lib/Defaults/baileys-version.json lib/Defaults/index.js
-          
+
           if git diff --staged --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
             exit 0
-          fi   
-        
+          fi
+
           git add package.json
           git commit -m "chore: update WhatsApp Web version"
+
+          # Ambil update terbaru dari remote dulu
+          git pull --rebase origin master
+
           git push origin master
           echo "changed=true" >> $GITHUB_OUTPUT
