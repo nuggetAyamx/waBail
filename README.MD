@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <h1>🌙 @lunarianbyte/baileys </h1>
+  <h1>🌙 @nuggetAyamx/waBail </h1>
   <p><em>Custom WhatsApp library built upon Baileys — enhanced, modernized, and elegant.</em></p>
 </p>
 
-  <img src="https://files.catbox.moe/ek65f3.JPG" width="400" alt="Elaina Bail Banner" style="border-radius: 15px; border: 2px solid #ff0000;" />
+  <img src="https://h.uguu.se/tDeQPxzl.jpeg" width="400" alt="Nugget" style="border-radius: 15px; border: 2px solid #ff0000;" />
   <br><br>
 
 <p>
