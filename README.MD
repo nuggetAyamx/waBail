@@ -10,7 +10,7 @@
 
 <p>
   <!-- WhatsApp Channel -->
-  <a href="https://whatsapp.com/channel/0029VbCa8LKBFLgNswevBG2w">
+  <a href="https://whatsapp.com/channel/0029VbCnTsm8F2pGnBYiXF3P">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
 </p>
@@ -28,7 +28,7 @@ Thanks to the following awesome contributors who help improve this project 💖
 
 
 ## 📌 Overview
->  `@lunarianbyte/baileys` is a refined version of the Baileys library with cleaner API usage, exclusive features like album messaging, newsletter controls, and full-size profile uploads — tailored for modern WhatsApp automation needs.
+>  `@nuggetAyamx/waBail` is a refined version of the Baileys library with cleaner API usage, exclusive features like album messaging, newsletter controls, and full-size profile uploads — tailored for modern WhatsApp automation needs.
 
 ## 🌙 CHANGELOG
 > **Update** 
@@ -47,19 +47,19 @@ Fork Baileys (NPM) **@whiskeysockets/baileys** / **@adiwajshing/baileys**
 ```json
 @whiskeysockets/baileys
 "dependencies": {
-    "@whiskeysockets/baileys": "github:@lunarianbyte/baileys"
+    "@whiskeysockets/baileys": "github:@nuggetAyamx/waBail"
 }
 ```
 ```json
 @adiwajsing/baileys
 "dependencies": {
-    "@adiwajshing/baileys": "github:@lunarianbyte/baileys"
+    "@adiwajshing/baileys": "github:@nuggetAyamx/waBail"
 }
 ```
 
 Or via terminal non fork
 ```bash
-npm install baileys@github:@lunarianbyte/baileys
+npm install baileys@github:@nuggetAyamx/waBail
 ```
 
 ---
